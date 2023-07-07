@@ -11,7 +11,6 @@ void getElements(int arr[], int n)
     cout<<"Second smallest is : "<<secondSmall<<endl;
     cout<<"Second Largest is :  "<<secondLargest;
 }
-
 int main()
 {
     int arr[] = {1,2,5,3,7,8};
